@@ -15,7 +15,7 @@ window.onload = function() {
 	bear.frame = 1;
 	
 	var enemy1 = new Sprite(32, 32);
-	var enamy1alive = 1
+	var enemy1alive = 1
         enemy1.image = core.assets['chara1.png'];
         enemy1.x = 80;
         enemy1.y = 80;
